@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @adityamahes
-- 👀 I’m interested in Artificial Intelligence and other Emerging Technology
-- 🌱 I’m currently learning GANs and Computer Vision
+- 👀 I’m interested in Synthetic BIology, Bioinformatics, and Artificial Intelligence
 - 📫 Connect with me on Linkedin: https://www.linkedin.com/in/aditya-mahes-a90648220/
  
 
