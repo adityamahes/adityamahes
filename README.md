@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @adityamahes
 - 👀 I’m interested in Synthetic BIology, Bioinformatics, and Artificial Intelligence
+- Currently building the mobile app and AI engine behind DietIQ
 - 📫 Connect with me on Linkedin: https://www.linkedin.com/in/aditya-mahes-a90648220/
  
 
