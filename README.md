@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adityamahes
-- 👀 I’m interested in Synthetic BIology, Bioinformatics, and Artificial Intelligence
-- Currently building the mobile app and AI engine behind DietIQ
+- 👀 I’m interested in Healthcare, Robotics/AI, and Synthetic Biology
+- Currently a Biomedical Engineering student at the University of Waterloo
 - 📫 Connect with me on Linkedin: https://www.linkedin.com/in/aditya-mahes-a90648220/
  
 
