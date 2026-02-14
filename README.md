@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adityamahes
-- 👀 I’m interested in Healthcare, Robotics/AI, Humanoids, and Synthetic Biology
+- 👀 I’m passionate about improving patient care, neurotech, building robots, and physical AI. I am very interested in humanoids, LLMs, and synthetic biology.
 - Currently a Biomedical Engineering student at the University of Waterloo
-- 📫 Connect with me on Linkedin: https://www.linkedin.com/in/aditya-mahes-a90648220/
+- 📫 Connect with me on Linkedin: [https://www.linkedin.com/in/aditya-mahes/](https://www.linkedin.com/in/aditya-mahes/)
  
 
 <!---
